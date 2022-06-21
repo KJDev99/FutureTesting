@@ -1,0 +1,1516 @@
+{
+    "data": [
+      {
+        
+        "_id": "62853daf7d13d84dd1856663",
+        "question": "Testlash qilinayotgan modulning chaqiruvchisini birlik testida simulyatsiya qilish uchun foydalaniladigan modul:",
+        "answers": [
+          { "question": "Ota-modul", "isCorrect": false },
+          { "question": "Submodul", "isCorrect": false },
+          { "question": "Drayv moduli", "isCorrect": true },
+          { "question": "Qoziq moduli", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856664",
+        "question": "Test samaradorligini oshirish uchun u qanday bo'lishi kerak.",
+        "answers": [
+          {
+            "question": "Test ma’lumotlarini tasodifiy tanlash;",
+            "isCorrect": false
+          },
+          {
+            "question": "test ma'lumotlari sifatida barcha mumkin bo'lgan ma'lumotlarni oling;",
+            "isCorrect": false
+          },
+          {
+            "question": "kodlash tugallangandan so'ng dasturiy ta'minotni Testlashdan o'tkazish rejasini tuzing;",
+            "isCorrect": false
+          },
+          {
+            "question": "Testlash ma'lumotlari sifatida xatolarni aniqlash tezligi yuqori bo'lgan ma'lumotlarni tanlanishi",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856665",
+        "question": "Knuth qayta hisoblash koefitsentini toping:.",
+        "answers": [
+          { "question": "3/4", "isCorrect": false },
+          { "question": "3/8", "isCorrect": true },
+          { "question": "3/5", "isCorrect": false },
+          { "question": "3/9", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856666",
+        "question": "Foydalanuvchilar ishtirok etishi kerak bo'lgan test bosqichi:",
+        "answers": [
+          { "question": "Birlik testi", "isCorrect": false },
+          { "question": "Integratsiya testi", "isCorrect": false },
+          { "question": "Tasdiqlash testi", "isCorrect": false },
+          { "question": "Qabul qilish testi", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856667",
+        "question": "Dasturiy ta'minotni testlashda testlovchilar aniq nima qiladi.",
+        "answers": [
+          {
+            "question": "Dasturiy ta'minotni testlashdan o'tkazuvchilarning maqsadi dasturiy ta'minotdagi kamchiliklarni topishdir.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotni testlashdan o'tkazuvchilarning maqsadi dasturiy ta'minotdagi kamchiliklarni imkon qadar erta aniqlashdir.",
+            "isCorrect": true
+          },
+          {
+            "question": "Dasturiy ta'minotni testlashdan o'tkazuvchilarning maqsadi dasturiy ta'minotdagi kamchiliklarni imkon qadar erta aniqlash va ularni tuzatishni ta'minlashdir.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotni testlashdan o'tkazuvchilarning maqsadi dasturiy ta'minotdagi kamchiliklarni imkon qadar erta aniqlash va ularni tuzatishdir.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856668",
+        "question": "Quyidagi to‘rtta fikrdan qaysi biri to‘g‘ri",
+        "answers": [
+          {
+            "question": "Sabab-oqibat diagrammasi qarorlar jadvali usuliga asoslangan oq quti testlash usuli;",
+            "isCorrect": false
+          },
+          {
+            "question": "Ekvivalentlik sinfini ajratish usuli chegaraviy tahlil usulining asosidir;",
+            "isCorrect": false
+          },
+          {
+            "question": "mustahkamlik ekvivalentligi klassi test ishi samarali ekvivalentlik sinfidagi qiymatni talab qiladi;",
+            "isCorrect": true
+          },
+          {
+            "question": "Qanday bo'lmasin, qora qutini sinab ko'rishda, avvalambor, xato chiqarish usulidan foydalanish haqida o'ylashingiz kerak.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856669",
+        "question": "Birlik testi tarkibiga kirmaydigan narsa",
+        "answers": [
+          { "question": "Modul interfeysi testi", "isCorrect": true },
+          {
+            "question": "Qisman ma'lumotlar strukturasi testi",
+            "isCorrect": false
+          },
+          { "question": "Yo'l testi", "isCorrect": false },
+          { "question": "Foydalanuvchi interfeysi testi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185666a",
+        "question": "Dasturiy ta'minotni testlashdan o'tkazishni oq quti testiga yoki qora quti testiga ajratish uchun asos",
+        "answers": [
+          { "question": "Dastur kodini bajarish kerakmi", "isCorrect": false },
+          {
+            "question": "Dasturiy ta'minotni ishlab chiqish hujjatlarini ko'ra olasizmi?",
+            "isCorrect": false
+          },
+          {
+            "question": "Siz testlashdan o'tayotgan manba dasturini ko'ryapsizmi?",
+            "isCorrect": true
+          },
+          {
+            "question": "Operatsiya natijasi tasdiqlanganmi?",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185666b",
+        "question": "Mahsulot rejasi, jadvali va rasmiy ishlab chiqish jarayoniga ega bo'lgan dasturiy ta'minotni ishlab chiqish modeli",
+        "answers": [
+          { "question": "Katta tayoq modeli", "isCorrect": false },
+          { "question": "Modelni o'zgartirganda yozib olish", "isCorrect": true },
+          { "question": "Sharshara modeli", "isCorrect": false },
+          { "question": "Tez prototiplash modeli", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185666c",
+        "question": "Agar test ishi ma'lum bir dasturiy ta'minot yo'li qamrovini amalga oshirsa, u dasturiy ta'minot yo'li qamrovini ham amalga oshirishi kerak .",
+        "answers": [
+          { "question": "Qamrov ta'rifi", "isCorrect": true },
+          { "question": "Qoplanish sharti", "isCorrect": false },
+          { "question": "Yechim / holatni qoplash", "isCorrect": false },
+          { "question": "Birlashtirilgan qamrov", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185666d",
+        "question": "Quyidagilardan qaysi gap noto'g'ri",
+        "answers": [
+          {
+            "question": "Test dasturiy ta’minotning to‘g‘riligini isbotlay olmaydi;",
+            "isCorrect": false
+          },
+          {
+            "question": "Testlashchilarga yaxshiroq muloqot qobiliyati kerak;",
+            "isCorrect": false
+          },
+          {
+            "question": "QA va test bir xil tushunchalar darajasida;",
+            "isCorrect": false
+          },
+          {
+            "question": "Muvaffaqiyatli test - bu xatolar topilgan test.",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185666e",
+        "question": "Veb-saytda o'tkazilgan testlar orasida funktsional test nimani o'z ichiga oladi.",
+        "answers": [
+          { "question": "Bog'lanish tezligini tekshirish", "isCorrect": false },
+          { "question": "Bog'lanish testi", "isCorrect": true },
+          { "question": "platforma Testlashi", "isCorrect": false },
+          { "question": "Xavfsizlik", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185666f",
+        "question": "Birlik testlarini bajarishda odatda qanday usuli qo'llaniladi.",
+        "answers": [
+          {
+            "question": "Qora quti testlari qo'llaniladi, oq quti testi bilan to'ldiriladi;",
+            "isCorrect": false
+          },
+          {
+            "question": "oq quti testi qo'llaniladi, qora quti testi bilan to'ldiriladi;",
+            "isCorrect": true
+          },
+          {
+            "question": "Faqat qora quti testidan foydalaning;",
+            "isCorrect": false
+          },
+          {
+            "question": "Faqat oq quti testlashidan foydalaniladi.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856670",
+        "question": "Quyidagi tasniflardan qaysilari avtomatlashtirilgan dasturiy ta'minotni testlash o'tkazishning afzalliklariga tegishli emas",
+        "answers": [
+          {
+            "question": "Yuqori tezlik va yuqori samaradorlik",
+            "isCorrect": false
+          },
+          { "question": "Yuqori aniqlik va aniqlik", "isCorrect": false },
+          {
+            "question": "Testlash sifatini oshirishi mumkin",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotni to'liq testlashdan o'tkazishi mumkin",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856671",
+        "question": "Konfiguratsiya testi bu?",
+        "answers": [
+          {
+            "question": "Dasturiy ta'minotning to'g'ri aloqa qilishini va ma'lumot almashishini tekshirishni nazarda tutadi",
+            "isCorrect": false
+          },
+          {
+            "question": "Bu interaktiv moslashuvchanlik, qulaylik va samaradorlikning jamlangan ifodasidir.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotning ishlashini sinab ko'rish uchun turli xil uskunalardan foydalanish jarayoniga ishora qiladi",
+            "isCorrect": true
+          },
+          {
+            "question": "Kamchilik samarali tarzda bartaraf etilganligini tekshiring.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856672",
+        "question": "Quyidagi bandlar test rejasiga kiritilmasligi kerak",
+        "answers": [
+          {
+            "question": "Testlash resurslari, rejalashtirish",
+            "isCorrect": false
+          },
+          { "question": "Kutilgan natijalarni tekshirish", "isCorrect": true },
+          { "question": "Testlash doirasi", "isCorrect": false },
+          { "question": "Testlash strategiyasi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856673",
+        "question": "Quyidagi usullardan qaysi biri rasmiy tekshirishga kirmaydi:",
+        "answers": [
+          { "question": "Tengdoshlarni tekshirish", "isCorrect": false },
+          { "question": "Ommaviy bayonot", "isCorrect": false },
+          { "question": "Tekshirish", "isCorrect": false },
+          {
+            "question": "Kodlash standartlari va spetsifikatsiyalari.",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856674",
+        "question": "Dinamik qora quti testlashi:",
+        "answers": [
+          {
+            "question": "Asosiy funktsiyalar, jarayonlar, quyi dasturlar va kutubxonalarni to'g'ridan-to'g'ri Testlashdan o'tkazish",
+            "isCorrect": false
+          },
+          {
+            "question": "Testlash paytida kod va maxsus kod miqdorini taxmin qilish mumkin",
+            "isCorrect": true
+          },
+          {
+            "question": "Dasturiy ta'minotdan o'qiladigan o'zgaruvchilarning va holat ma'lumotlariga kirish huquqini oling",
+            "isCorrect": false
+          },
+          {
+            "question": "Foydalanish vaqti dasturiy ta'minotni haqiqiy harakatini tekshiring.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856675",
+        "question": "Yuqori oqim testlashida test qilinayotgan birlikni sinash uchun qanday nomli birlik yozilishi kerak.",
+        "answers": [
+          { "question": "Testlash vilkasi", "isCorrect": false },
+          { "question": "Testlashni ishlatuvchi moduli", "isCorrect": true },
+          { "question": "Tayanch moduli", "isCorrect": false },
+          { "question": "Pastki modul", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856676",
+        "question": "Quyidagilardan qaysilari avtomatlashtirilgan dasturiy ta'minotni testdan o'tkazishning afzalliklari emas",
+        "answers": [
+          {
+            "question": "Yuqori tezlik va yuqori samaradorlik",
+            "isCorrect": false
+          },
+          { "question": "Yuqori aniqlik", "isCorrect": false },
+          {
+            "question": "Testlash sifatini oshirishi mumkin",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotni to'liq testdan o'tkazishi mumkin",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856677",
+        "question": "Konfiguratsiya testi",
+        "answers": [
+          {
+            "question": "Dasturiy ta'minotning to'g'ri aloqa qilishini va ma'lumot almashishini tekshirishni nazarda tutadi",
+            "isCorrect": false
+          },
+          {
+            "question": "Bu interaktiv moslashuvchanlik, qulaylik va samaradorlikning jamlangan ifodasidir.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotning ishlashini sinab ko'rish uchun turli xil uskunalardan foydalanish jarayoniga ishora qiladi",
+            "isCorrect": true
+          },
+          {
+            "question": "Kamchilik samarali tarzda bartaraf etilganligini tekshiring.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856678",
+        "question": "Quyidagi bandlar test rejasiga kiritilmasligi kerak.",
+        "answers": [
+          {
+            "question": "Testlash resurslari, rejalashtirish",
+            "isCorrect": false
+          },
+          { "question": "Kutilgan natijalarni tekshirish", "isCorrect": true },
+          { "question": "Testlash doirasi", "isCorrect": false },
+          { "question": "Testlash strategiyasi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856679",
+        "question": "Quyidagi usullar qaysilari rasmiy testlashga kirmaydi:",
+        "answers": [
+          { "question": "Tengdoshlarni tekshirish", "isCorrect": false },
+          { "question": "Ommaviy bayonet", "isCorrect": false },
+          { "question": "Tekshirish", "isCorrect": false },
+          {
+            "question": "Kodlash standartlari va spetsifikatsiyalar",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185667a",
+        "question": "Xatoliklarni tuzatish bu-",
+        "answers": [
+          {
+            "question": "Oldindan belgilangan spetsifikatsiyalar va standartlarga nomuvofiqlikni aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotdagi xatolikni belgilarini izlash jarayoni",
+            "isCorrect": false
+          },
+          {
+            "question": "Rejalashtirilgan va takrorlanadigan jarayon",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotda xatolarni tuzatish jarayoni",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185667b",
+        "question": "Dasturiy ta'minotning pastki qismidagi test jarayoni nima deb ataladi.",
+        "answers": [
+          { "question": "Tizim test", "isCorrect": false },
+          { "question": "Integratsiya testi", "isCorrect": false },
+          { "question": "Birlik testi", "isCorrect": true },
+          { "question": "Funktsionallik testi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185667c",
+        "question": "Quyidagilardan qaysilari dasturiy kamchiliklar emas.",
+        "answers": [
+          {
+            "question": "Testlovchi sub'ektiv ravishda asossiz deb topishi",
+            "isCorrect": true
+          },
+          {
+            "question": "Dasturiy ta'minot mahsulot qo'llanmasida ko'rsatilgan funktsiyalarga mos kelmaydi.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotda mahsulot qo'llanmasida ko'rsatilmagan xatolik mavjud.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotning funktsiyasi mahsulot qo'llanmasida ko'rsatilgan doiradan tashqarida.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185667d",
+        "question": "Dasturiy ta'minotni ishlab chiqarilgandan so'ng kamchiliklarni tuzatish xarajatlari loyihani ishlab chiqishning dastlabki bosqichidagiga qaraganda necha marta yuqori(D).",
+        "answers": [
+          { "question": "kamida 1-2 marta", "isCorrect": false },
+          { "question": "kamida10-20 marta", "isCorrect": false },
+          { "question": "kamida 150 marta va undan ortiq", "isCorrect": false },
+          { "question": "kamida 100 marta va undan ortiq", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185667e",
+        "question": "Qora quti testi va oq quti testi o'rtasidagi chegaralarni buzdi nimaga olib keladi:",
+        "answers": [
+          { "question": "Kulrang quti testi", "isCorrect": true },
+          { "question": "Dinamik test", "isCorrect": false },
+          { "question": "Statik test", "isCorrect": false },
+          { "question": "Yakka testlash", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185667f",
+        "question": "Dasturiy ta'minotni testdan o'tkazish:",
+        "answers": [
+          {
+            "question": "Dasturiy ta'minotni ishlab chiqishda xatolardan saqlaning",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotni ishlab chiqishdagi xatolarni aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotdagi xatolarni tuzatish",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotdagi xatolarni aniqlash va bartaraf etish, dasturiy ta'minot ishonchliligini oshirish",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856680",
+        "question": "Dasturiy ta'minotni bajarish uchun dasturiy ta'minotni testdan o'tkazishda foydalanadigan faoliyat bu -",
+        "answers": [
+          { "question": "Kirish", "isCorrect": false },
+          { "question": "Test muhiti", "isCorrect": false },
+          { "question": "Dastlabki shart", "isCorrect": false },
+          { "question": "Testlash jarayoni", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856681",
+        "question": "Dasturiy ta'minotdagi kamchiliklarning eng katta sababi:",
+        "answers": [
+          { "question": "Dizayn", "isCorrect": false },
+          { "question": "kodlash", "isCorrect": false },
+          { "question": "qo'llab-quvvatlash", "isCorrect": false },
+          {
+            "question": "Dasturiy ta'minot talablari spetsifikatsiyasi",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856682",
+        "question": "Quyidagi keltirilganlar dasturiy ta'minotdagi kamchilik holatining to'liq o'zgarishining noto'g'ri tavsifi hisoblanadi:",
+        "answers": [
+          { "question": "Ochish-tuzatish-yopish", "isCorrect": false },
+          { "question": "Ochish-yopish", "isCorrect": false },
+          { "question": "Ochiq xotira", "isCorrect": false },
+          {
+            "question": "Faollashtirish-ta'mirlash-qayta ochish",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856683",
+        "question": "Quyidagi tavsifda testlash va disk raskadrovkasida noto'g'ri fikirni toping",
+        "answers": [
+          {
+            "question": "Test - xatolar ko'rsatiladigan xatti-harakatlar, disk raskadrovka esa fikr yuritish jarayonidir;",
+            "isCorrect": false
+          },
+          {
+            "question": "Test ishlab chiquvchi xatosini ko'rsatadi. Nosozliklarni tuzatish - bu ishlab chiquvchining himoyasi;",
+            "isCorrect": false
+          },
+          {
+            "question": "Testni kutish va nazorat qilish mumkin. Nosozliklarni tuzatish xayolot, tajriba va fikrlashni talab qiladi;",
+            "isCorrect": false
+          },
+          {
+            "question": "Testni faqat batafsil loyihalash tugagandan so'ng boshlash mumkin; nosozliklarni tuzatish batafsil shablon ma'lumotisiz amalga oshirilmaydi.",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856684",
+        "question": "Dasturni nosozliklarini tuzatishning kutilgan natijasi yo'q, quyidagi fikirlardan qaysilari xatoning sababi bo'lishi mumkin emas.",
+        "answers": [
+          {
+            "question": "O‘zgaruvchilar ishga tushirilmagan",
+            "isCorrect": false
+          },
+          { "question": "Loopni boshqarish xatosi", "isCorrect": false },
+          { "question": "Kod noto'g'ri kiritilgan", "isCorrect": false },
+          {
+            "question": "Yozma taklif yozish formati standartlashtirilmagan.",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856685",
+        "question": "Dasturiy ta'minotdagi kamchilikni tuzatishning eng qimmat bosqichi",
+        "answers": [
+          { "question": "Talab bosqichi", "isCorrect": false },
+          { "question": "Dizayn bosqichi", "isCorrect": false },
+          { "question": "Kodlash bosqichi", "isCorrect": false },
+          { "question": "Chiqarish bosqichi", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856686",
+        "question": "Mantiqiy qamrov usuli bo'lmagan narsa",
+        "answers": [
+          { "question": "Portfolio qamrovi", "isCorrect": false },
+          { "question": "Qamrovni aniqlang", "isCorrect": false },
+          { "question": "Vaziyat qamrovi", "isCorrect": false },
+          { "question": "Interfeysdagi qamrov", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856687",
+        "question": "Dasturiy ta'minotni testdan o'tkazish dasturiy ta'minot sifatini ta'minlashning muhim vositasidir. Quyidagi testlardan qaysi biri dasturiy ta'minotni tekshirishning eng asosiy qismi hisoblanadi?",
+        "answers": [
+          { "question": "funksional test", "isCorrect": false },
+          { "question": "Strukturaviy test", "isCorrect": false },
+          { "question": "Kirish testi", "isCorrect": false },
+          { "question": "birlik testi", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856688",
+        "question": "Birlik testining asosiy vazifasi nimani o'z ichiga olmaydi.",
+        "answers": [
+          { "question": "ishlov berishda xatolik", "isCorrect": false },
+          { "question": "Modul interfeysi", "isCorrect": false },
+          { "question": "O'z yo'li", "isCorrect": false },
+          { "question": "Global ma’lumotlar strukturasi", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856689",
+        "question": "Birlik testida u testdan o'tgan birlikni amalga oshirish uchun chaqirilishi kerak bo'lgan boshqa funktsional birliklarni simulyatsiya qilish uchun qanday modul ishlatiladi",
+        "answers": [
+          { "question": "Bosh boshqaruv bloki", "isCorrect": false },
+          { "question": "Real deb ataladigan moduli", "isCorrect": false },
+          { "question": "Drayv modul", "isCorrect": false },
+          { "question": "Soxta  moduli", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185668a",
+        "question": "Integratsiya testi rejasi qaysi bosqichining oxirida topshirilishi kerak",
+        "answers": [
+          { "question": "Talablarni tahlil qilish", "isCorrect": false },
+          { "question": "Batafsil loyihalash", "isCorrect": false },
+          { "question": "Birlik testni tugallandi", "isCorrect": false },
+          { "question": "Loyihalashni rejasi", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185668b",
+        "question": "Dastur samaradorligining quyidagi tavsifi noto'g'ri",
+        "answers": [
+          {
+            "question": "Dasturni bajarish tezligini oshirish dastur samaradorligini oshirishi mumkin.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dastur tomonidan foydalaniladigan xotira hajmini kamaytirish dastur samaradorligini oshirishi mumkin.",
+            "isCorrect": false
+          },
+          {
+            "question": "Yaxshi dasturlash samaradorlikni oshirishi mumkin",
+            "isCorrect": false
+          },
+          {
+            "question": "Dastlabki dasturning samaradorligi batafsil loyihalash bosqichida aniqlangan algoritm samaradorligi bilan hech qanday aloqasi yo'q.",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185668c",
+        "question": "Quyidagi tasniflardan qaysilari dasturning oqim sxemasini soddalashtirgandan so'ng olinadi, bu dasturni boshqarish oqimi strukturasini yanada aniqroq ko'rsatishi mumkin va birikma shartlarini o'z ichiga olmaydi.",
+        "answers": [
+          { "question": "DD yo'l xaritasi", "isCorrect": false },
+          { "question": "MM yo'l xaritasi", "isCorrect": false },
+          { "question": "Modulni chaqirish jadvali", "isCorrect": false },
+          { "question": "Boshqarish oqimi grafigi", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185668d",
+        "question": "Barqarorlik (ishonchlilik) testining vazifasi?",
+        "answers": [
+          {
+            "question": "tiklash tizimlarini tekshirish (yoki tizimlarning asosiy funksiyalarini takrorlash)",
+            "isCorrect": false
+          },
+          {
+            "question": "muvaffaqiyatli o'rnatish va konfiguratsiyani tekshirish, shuningdek, dasturiy ta'minotni yangilash yoki olib tashlash",
+            "isCorrect": false
+          },
+          {
+            "question": "dastur ma'lumotlar bazasidagi ma'lumotlar miqdori ortishi bilan ishlash ballini olish",
+            "isCorrect": false
+          },
+          {
+            "question": "1. o'rtacha yuk darajasi bilan uzoq muddatli (ko'p soatlik) test paytida dasturning ishlashini tekshirish",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185668e",
+        "question": "Rasmiy tekshiruvda qanday hujjatlar mavjud?",
+        "answers": [
+          { "question": "Rasmiy va norasmiy hujjatlar", "isCorrect": false },
+          {
+            "question": "Qo'shimcha hujjatlar foydalanuvchining ixtiyoriga ko'ra",
+            "isCorrect": false
+          },
+          {
+            "question": "Oddiy va murakkab hujjatlar foydalanuvchining ixtiyoriga ko'ra",
+            "isCorrect": false
+          },
+          {
+            "question": "Dizayn hujjatlari va yordamchi hujjatlar",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185668f",
+        "question": "Rasmiy tekshiruv ishtirokchisi kim?",
+        "answers": [
+          {
+            "question": "Tekshiruv ob'ektini rivojlantirishda ishtirok etadigan xodimlar",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotni ishlab chiquvchilar",
+            "isCorrect": false
+          },
+          { "question": "ekspertlar", "isCorrect": false },
+          {
+            "question": "Menejer (rahbar); muallif; mutaxassislar (bir yoki bir nechta)",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856690",
+        "question": "Test ishining \"Muvaffaqiyatsiz\" holati nimani anglatadi?",
+        "answers": [
+          {
+            "question": "test ishini bajarish jarayonida uning qadamlarining kutilgan va haqiqiy natijalari o'rtasidagi nomuvofiqlik bilan bog'liq kamchiliklar aniqlanmadi.",
+            "isCorrect": false
+          },
+          {
+            "question": "test ishining bajarilishi vaqt etishmasligi yoki test mantig'ining o'zgarishi sababli bekor qilinadi",
+            "isCorrect": false
+          },
+          {
+            "question": "u ijro etishga tayyor, lekin hali bajarilmagan",
+            "isCorrect": false
+          },
+          {
+            "question": "test ishini bajarish jarayonida kamchilik  aniqlanadi, bu test ishining kamida bir bosqichi uchun kutilgan natija haqiqiy natijaga mos kelmasligidan iborat",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856691",
+        "question": "Ifodaga asoslangan testda nima tekshiriladi?",
+        "answers": [
+          {
+            "question": "alohida shartli konstruksiyalar, masalan, if (a == 9)",
+            "isCorrect": false
+          },
+          {
+            "question": "qo'shma shartlar, masalan, agar ((a == b) || (c == 11))",
+            "isCorrect": false
+          },
+          {
+            "question": "murakkab shoxchalar, masalan, switch bayonoti",
+            "isCorrect": false
+          },
+          {
+            "question": "kodning alohida qism bo'limlari, masalan, x=10",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856692",
+        "question": "Sharshara dasturiy ta'minotini ishlab chiqish modelida test qachon amalga oshiriladi?",
+        "answers": [
+          { "question": "istalgan vaqtda", "isCorrect": false },
+          { "question": "iteratsiyaning ma'lum nuqtalarida", "isCorrect": false },
+          { "question": "bosqichlar orasidagi o'tishlarda", "isCorrect": false },
+          { "question": "loyihaning o'rtasidan", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856693",
+        "question": "Test talablarini kim ishlab chiqadi?",
+        "answers": [
+          { "question": "Test ishlab chiquvchilari", "isCorrect": true },
+          {
+            "question": "mijoz yoki foydalanuvchilar birgalikda",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturchi yoki administrator birglikda",
+            "isCorrect": false
+          },
+          { "question": "Mijoz", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856694",
+        "question": "Test ishlarining hajmi qanday aniqlanadi?",
+        "answers": [
+          {
+            "question": "Kamchiliklar aniqlangan testlarning umumiy soni dastur kodining sifati va kamchiliklarni bartaraf etish uchun bajarilishi kerak bo'lgan ishlar bilan baholandi",
+            "isCorrect": true
+          },
+          { "question": "Test vaqtiga qarab", "isCorrect": false },
+          { "question": "Dastur kodining uzunligiga qarab", "isCorrect": false },
+          {
+            "question": "Kam sonli kamchiliklarga va dasturning murakkabligiga bog'liq",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856695",
+        "question": "Loyiha hujjatlarining strukturaviy tarkibi nima?",
+        "answers": [
+          {
+            "question": "tizimning turli bosqichlariga qo'yiladigan talablar (tarkibiy, funktsional va tizimli); tizim arxitekturasining tasnifi; dastur kodi; testlar; Tizimni amalga oshirish hujjatlari (tizimni o'rnatish va sozlash, tizimni ishlatish bo'yicha ko'rsatmalar va boshqalar)",
+            "isCorrect": true
+          },
+          {
+            "question": "Tizimdan foydalanish bo'yicha ko'rsatmalar",
+            "isCorrect": false
+          },
+          {
+            "question": "Tizim dasturchilar uchun yo'riqnoma",
+            "isCorrect": false
+          },
+          {
+            "question": "Tizim ma'murlari uchun ko'rsatmalar",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856696",
+        "question": "Barqarorlik (ishonchlilik) testining vazifasi",
+        "answers": [
+          {
+            "question": "o'rtacha ish darajasi bilan uzoq muddatli  test paytida dasturni ishlashini tekshirish",
+            "isCorrect": true
+          },
+          {
+            "question": "dastur ma'lumotlar bazasidagi joylashgan ma'lumotlar miqdori ortishi (yoki kamaytirish) bilan ishlashdagi ballarni olish",
+            "isCorrect": false
+          },
+          {
+            "question": "muvaffaqiyatli o'rnatish va konfiguratsiyani tekshirish, shuningdek, dasturiy ta'minotni yangilash yoki olib tashlash",
+            "isCorrect": false
+          },
+          {
+            "question": "tiklash tizimlarini tekshirish (yoki tizimlarning asosiy funktsiyalarini takrorlash).",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856697",
+        "question": "Turli xil tizim konfiguratsiyalarida (e'lon qilingan platformalar, qo'llab-quvvatlanadigan drayverlar, turli xil kompyuter konfiguratsiyalari va boshqalar) dasturiy ta'minotning ishlashini tekshirishga qaratilgan maxsus test turi:",
+        "answers": [
+          {
+            "question": "tutun testi, qora quti usuli testi",
+            "isCorrect": false
+          },
+          { "question": "qayta testlashdan o'tkazish", "isCorrect": false },
+          { "question": "regressiya testi", "isCorrect": false },
+          { "question": "konfiguratsiya testi", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856698",
+        "question": "Ilova yoki muhitga kiritilgan oʻzgarishlarni tekshirishga (kamchiliklarni tuzatish, kodlarni birlashtirish, boshqa operatsion tizimga, maʼlumotlar bazasiga, veb-serverga yoki dastur serveriga koʻchirish) avvaldan mavjud boʻlgan funksiyalarning kerakli darajada ishlashini tasdiqlashga qaratilgan test turi.",
+        "answers": [
+          { "question": "tutun testi", "isCorrect": false },
+          { "question": "qayta testdan o'tkazish", "isCorrect": false },
+          { "question": "regressiya testi", "isCorrect": true },
+          { "question": "konfiguratsiya testi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd1856699",
+        "question": "Interfeysning talablarga muvofiqligini funktsional tekshirish nima:",
+        "answers": [
+          {
+            "question": "Foydalanuvchi interfeysi testi (GUI testi)",
+            "isCorrect": true
+          },
+          {
+            "question": "Xavfsizlik va kirishni nazorat qilish testi",
+            "isCorrect": false
+          },
+          { "question": "O'zaro ishlash testi", "isCorrect": false },
+          { "question": "Ovozni tekshirish testi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185669a",
+        "question": "Testning funktsional turlari:",
+        "answers": [
+          {
+            "question": "funktsional test\r\n== foydalanuvchi interfeysi testi (GUI testi)",
+            "isCorrect": false
+          },
+          {
+            "question": "Xavfsizlik va kirishni boshqarish testi va o'zaro ishlash testi",
+            "isCorrect": false
+          },
+          { "question": "barcha javoblar to'g'ri", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185669b",
+        "question": "Tizim testining asosiy vazifasi:",
+        "answers": [
+          {
+            "question": "komponentalar o'rtasidagi o'zaro ta'sirni tekshirish",
+            "isCorrect": false
+          },
+          {
+            "question": "butun tizimdagi funktsional va funktsional bo'lmagan talablarni tekshirish",
+            "isCorrect": true
+          },
+          {
+            "question": "tizimning talablarga muvofiqligini tekshirish va quyidagi maqsadlarda amalga oshiriladi va tizimning qabul qilish mezonlariga javob berishini aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "funksionallikni tekshirish va ilovaning mavjud va alohida testdan o'tkazilishi mumkin bo'lgan qismlarida kamchiliklarni topish (dastur modullari, ob'ektlar, sinflar, funktsiyalar va boshqalar).",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185669c",
+        "question": "Kod qamrovi nima?",
+        "answers": [
+          {
+            "question": "kuzatuv natijasidagi matritsalarini qurish orqali funktsional bo’lgan  va funktsional bo'lmagan mahsulotlar talablarini testdan o'tkazishni baholash",
+            "isCorrect": false
+          },
+          {
+            "question": "testlar orqali bajariladigan kodning qamrovini baholash, test paytida testdan o'tmagan dasturiy ta'minot qismlarini kuzatish",
+            "isCorrect": true
+          },
+          {
+            "question": "dasturiy ta'minotni testdan o'tkazish jarayonining bosqichi, bunda test stsenariylari (test holatlari) oldindan belgilangan sifat mezonlari va test maqsadlariga muvofiq ishlab chiqiladi va yaratiladi.",
+            "isCorrect": false
+          },
+          {
+            "question": "dasturiy ta'minotni belgilangan ehtiyojlarni qondirish qobiliyatiga bog'liq bo'lgan xususiyatlar to'plami",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185669d",
+        "question": "Dasturiy ta'minotni testdan o'tkazish sifatini baholash ko'rsatkichlaridan biri:",
+        "answers": [
+          { "question": "test qamrovi", "isCorrect": true },
+          { "question": "testlashdagi rejalash", "isCorrect": false },
+          { "question": "test ishi", "isCorrect": false },
+          { "question": "tekshirish ro'yxati", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185669e",
+        "question": "Qaysi test usulida tester kodning ichki ishini bilishi kerak?",
+        "answers": [
+          { "question": "qora quti usuli", "isCorrect": false },
+          { "question": "oq quti usuli", "isCorrect": true },
+          { "question": "kulrang quti usuli", "isCorrect": false },
+          { "question": "qo'lda test", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd185669f",
+        "question": "Qaysi model loyiha davomida bir xil bo'lib qoladigan aniq belgilangan talablarni talab qiladi?",
+        "answers": [
+          { "question": "kaskadli", "isCorrect": true },
+          { "question": "iterativ yoki ortib boruvchi", "isCorrect": false },
+          { "question": "spiral", "isCorrect": false },
+          { "question": "V yoki iteraiv modeli", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a0",
+        "question": "Dasturiy ta'minot tushunchasi paydo bo'lgan paytdan boshlab va dasturiy ta'minotdan keyingi foydalanish mumkin bo'lmagan vaqtgacha bo'lgan vaqt davri:",
+        "answers": [
+          {
+            "question": "dasturiy ta'minotning sikl aylanishi",
+            "isCorrect": true
+          },
+          {
+            "question": "dasturiy ta'minotni testdan o'tkazish",
+            "isCorrect": false
+          },
+          { "question": "dasturiy ta'minot dizayni", "isCorrect": false },
+          { "question": "dasturiy ta'minotni ishlab chiqish", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a1",
+        "question": "Komponent, butun dastur yoki tizimning ishdan chiqishi nima deb ataladi?",
+        "answers": [
+          { "question": "Kamchilik", "isCorrect": false },
+          { "question": "xato", "isCorrect": false },
+          { "question": "Xato (kamchilik)", "isCorrect": false },
+          { "question": "Muvaffaqiyatsizlik", "isCorrect": true }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a2",
+        "question": "Tekshirish ro'yxati nima?",
+        "answers": [
+          {
+            "question": "Bu dastur bajarilishining haqiqiy natijasi va kutilgan natija o'rtasidagi nomuvofiqlikdir.",
+            "isCorrect": false
+          },
+          {
+            "question": "bu nima testdan o'tkazilishini tavsiflovchi hujjatdir",
+            "isCorrect": true
+          },
+          {
+            "question": "bu foydalanuvchi xatosi, ya'ni u dasturni boshqacha tarzda ishlatishga harakat qilmoqda",
+            "isCorrect": false
+          },
+          {
+            "question": "bu komponentning  ishlashidagi nosozlik",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a3",
+        "question": "Test stsenariylarining turlari:",
+        "answers": [
+          { "question": "ijobiy va salbiy", "isCorrect": true },
+          { "question": "murakkab va oddiy", "isCorrect": false },
+          { "question": "murakkab va salbiy", "isCorrect": false },
+          { "question": "to'g'ri, noto'g'ri", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a4",
+        "question": "Test stsenariylarining turlari:",
+        "answers": [
+          { "question": "ijobiy va salbiy", "isCorrect": true },
+          { "question": "murakkab va oddiy", "isCorrect": false },
+          { "question": "murakkab va salbiy", "isCorrect": false },
+          { "question": "to'g'ri, noto'g'ri", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a5",
+        "question": "Test ishi nechta qismdan iborat?",
+        "answers": [
+          { "question": "2", "isCorrect": false },
+          { "question": "3", "isCorrect": true },
+          { "question": "4", "isCorrect": false },
+          { "question": "1", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a6",
+        "question": "Test ishi nima?",
+        "answers": [
+          {
+            "question": "bu dasturiy ta'minotni testdan o'tkazish jarayonining bosqichi bo'lib, unda test stsenariylari (test holatlari) oldindan belgilangan sifat mezonlari va test maqsadlariga muvofiq ishlab chiqiladi va yaratiladi.",
+            "isCorrect": false
+          },
+          {
+            "question": "Bu ob'ekt tavsifi, strategiya, jadval, testni boshlash va tugatish mezonlari, jarayonda zarur bo'lgan asbob-uskunalar, maxsus bilimlar, shuningdek, xavflarni baholash variantlari bilan tavsiflangan test ishining butun hajmini tavsiflovchi hujjat. ularni hal qilish",
+            "isCorrect": false
+          },
+          {
+            "question": "bu belgilangan va nazarda tutilgan ehtiyojlarni qondirish qobiliyati bilan bog'liq bo'lgan dasturiy ta'minotning xususiyatlari to'plamidir",
+            "isCorrect": false
+          },
+          {
+            "question": "bu testdan o'tayotgan funktsiyaning yoki uning bir qismining bajarilishini tekshirish uchun zarur bo'lgan qadamlar, aniq shartlar va parametrlarni tavsiflovchi fakt.",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a7",
+        "question": "Test rejasi nima?",
+        "answers": [
+          {
+            "question": "rivojlanishning hozirgi bosqichi natijalari ushbu bosqichning boshida shakllangan shartlarga javob beradimi yoki yo'qligini aniqlash uchun tizim yoki uning tarkibiy qismlarini baholash jarayoni.",
+            "isCorrect": true
+          },
+          {
+            "question": "bu ishlab chiqilgan dasturiy ta'minotning foydalanuvchining kutishlari va ehtiyojlariga, tizim talablariga muvofiqligini aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Bu ob'ekt tavsifi, strategiya, jadval, testni boshlash va tugatish mezonlari, jarayonda zarur bo'lgan asbob-uskunalar, maxsus bilimlar, shuningdek, xavflarni baholash variantlari bilan tavsiflangan test ishining butun hajmini tavsiflovchi hujjat. ularni hal qilish",
+            "isCorrect": false
+          },
+          {
+            "question": "bu belgilangan va nazarda tutilgan ehtiyojlarni qondirish qobiliyati bilan bog'liq bo'lgan dasturiy ta'minotning xususiyatlari to'plamidir",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a8",
+        "question": "Validatsiya nima?",
+        "answers": [
+          {
+            "question": "rivojlanishning hozirgi bosqichi natijalari ushbu bosqichning boshida shakllangan shartlarga javob beradimi yoki yo'qligini aniqlash uchun tizimni yoki uning tarkibiy qismlarini baholash jarayoni",
+            "isCorrect": true
+          },
+          {
+            "question": "dasturiy ta'minotning belgilangan va nazarda tutilgan ehtiyojlarni qondirish qobiliyatiga bog'liq bo'lgan xususiyatlar to'plami",
+            "isCorrect": false
+          },
+          {
+            "question": "ishlab chiqilgan dasturiy ta'minotning foydalanuvchining kutish va ehtiyojlariga, tizim talablariga muvofiqligini aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturning haqiqiy xatti-harakati va uning kutilgan xatti-harakati o'rtasidagi muvofiqlikni ma'lum bir tarzda tanlangan testlarning yakuniy to'plamida tekshirishga qaratilgan tadqiqot, dasturiy mahsulotni testdan o'tkazish jarayoni.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566a9",
+        "question": "Tekshirish (verification) nima?",
+        "answers": [
+          {
+            "question": "rivojlanishning hozirgi bosqichi natijalari ushbu bosqichning boshida shakllangan shartlarga javob beradimi yoki yo'qligini aniqlash uchun tizimni yoki uning tarkibiy qismlarini baholash jarayoni",
+            "isCorrect": true
+          },
+          {
+            "question": "dasturiy ta'minotning belgilangan va nazarda tutilgan ehtiyojlarni qondirish qobiliyatiga bog'liq bo'lgan xususiyatlar to'plami",
+            "isCorrect": false
+          },
+          {
+            "question": "ishlab chiqilgan dasturiy ta'minotning foydalanuvchining kutish va ehtiyojlariga, tizim talablariga muvofiqligini aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturning haqiqiy xatti-harakati va uning kutilgan xatti-harakati o'rtasidagi muvofiqlikni ma'lum bir tarzda tanlangan testlarning yakuniy to'plamida tekshirishga qaratilgan tadqiqot, dasturiy mahsulotni testdan o'tkazish jarayoni.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566aa",
+        "question": "Dasturiy ta'minot sifati nima?",
+        "answers": [
+          {
+            "question": "rivojlanishning hozirgi bosqichi natijalari ushbu bosqichning boshida shakllangan shartlarga javob beradimi yoki yo'qligini aniqlash uchun tizimni yoki uning tarkibiy qismlarini baholash jarayoni",
+            "isCorrect": false
+          },
+          {
+            "question": "dasturiy ta'minotning belgilangan va nazarda tutilgan ehtiyojlarni qondirish qobiliyatiga bog'liq bo'lgan xususiyatlar to'plami",
+            "isCorrect": true
+          },
+          {
+            "question": "ishlab chiqilgan dasturiy ta'minotning foydalanuvchining kutish va ehtiyojlariga, tizim talablariga muvofiqligini aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturning haqiqiy xatti-harakati va uning kutilgan xatti-harakati o'rtasidagi muvofiqlikni ma'lum bir tarzda tanlangan testlarning yakuniy to'plamida tekshirishga qaratilgan tadqiqot, dasturiy mahsulotni testdan o'tkazish jarayoni.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566ab",
+        "question": "Dasturning haqiqiy xatti-harakati va uning kutilgan xatti-harakati o'rtasidagi muvofiqlikni ma'lum bir tarzda tanlangan testlarning yakuniy to'plamida tekshirishga qaratilgan dasturiy mahsulotni tadqiq qilish, testdan o'tkazish jarayoni.",
+        "answers": [
+          {
+            "question": "dasturiy ta'minotni testdan o'tkazish",
+            "isCorrect": true
+          },
+          { "question": "dasturiy ta'minot dizayni", "isCorrect": false },
+          {
+            "question": "dasturiy ta'minotni ishlab chiqish",
+            "isCorrect": false
+          },
+          {
+            "question": "dasturiy ta'minotni hayot aylanishi",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566ac",
+        "question": "Moslashuv nima?",
+        "answers": [
+          {
+            "question": "bu jarayon bo'lib, natijada tizim asta-sekin tashqi ta'sirlarning ma'lum to'plamlariga kerakli reaktsiyalar bilan javob berish qobiliyatiga ega bo'ladi.",
+            "isCorrect": false
+          },
+          {
+            "question": "bu tashqi sharoitlarning uzluksiz o'zgarishi sharoitida kerakli nazorat sifatiga erishish uchun tizimning parametrlari va tuzilishini sozlash.",
+            "isCorrect": true
+          },
+          {
+            "question": "o'rganish, unda reaktsiyaning ishonchliligi haqida qo'shimcha ma'lumotlar tizimga xabar qilinmaydi",
+            "isCorrect": false
+          },
+          { "question": "To'g'ri javob yo'q", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566ad",
+        "question": "Quyidagi bandlardan qaysilari testlash rejasiga kiritilmasligi kerak .",
+        "answers": [
+          {
+            "question": "Testlash resurslari, rejalashtirish",
+            "isCorrect": false
+          },
+          {
+            "question": "Kutilgan natijalarni tekshirish yo’li",
+            "isCorrect": true
+          },
+          { "question": "Testlash doirasi", "isCorrect": false },
+          { "question": "Testlash strategiyasi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566ae",
+        "question": "Konfiguratsiya testi bu?",
+        "answers": [
+          {
+            "question": "Dasturiy ta'minotning to'g'ri aloqa qilishini va ma'lumot almashishini tekshirishni nazarda tutadi",
+            "isCorrect": false
+          },
+          {
+            "question": "Bu interaktiv moslashuvchanlik, qulaylik va samaradorlikning jamlangan ifodasidir.",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotning ishlashini sinab ko'rish uchun turli xil uskunalardan foydalanish jarayoniga ishora qiladi",
+            "isCorrect": true
+          },
+          {
+            "question": "Kamchilik samarali tarzda bartaraf etilganligini tekshiring.",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566af",
+        "question": "Test samaradorligini oshirish uchun u qanday bo'lishi kerak.",
+        "answers": [
+          {
+            "question": "Test ma’lumotlarini tasodifiy tanlash;",
+            "isCorrect": false
+          },
+          {
+            "question": "test ma'lumotlari sifatida barcha mumkin bo'lgan ma'lumotlarni oling;",
+            "isCorrect": false
+          },
+          {
+            "question": "kodlash tugallangandan so'ng dasturiy ta'minotni Testlashdan o'tkazish rejasini tuzing;",
+            "isCorrect": false
+          },
+          {
+            "question": "Testlash ma'lumotlari sifatida xatolarni aniqlash tezligi yuqori bo'lgan ma'lumotlarni tanlanishi.",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566b0",
+        "question": "Resurslar tugaganda dasturiy ta'minotning ishlashini kuzatishga qaratilgan tizimli test nima deb ataladi.",
+        "answers": [
+          { "question": "Kuch testi", "isCorrect": false },
+          { "question": "Stress testi", "isCorrect": true },
+          { "question": "Imkoniyatlarni tekshirish", "isCorrect": false },
+          { "question": "Ishlash testi", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566b1",
+        "question": "Quyidagi usullardan qaysi biri rasmiy tekshirishga kirmaydi:",
+        "answers": [
+          { "question": "Tengdoshlarni tekshirish", "isCorrect": false },
+          { "question": "Ommaviy bayonot", "isCorrect": false },
+          { "question": "Tekshirish", "isCorrect": false },
+          {
+            "question": "Kodlash standartlari va spetsifikatsiyalari",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566b2",
+        "question": "Xatoliklarni tuzatish bu-",
+        "answers": [
+          {
+            "question": "Oldindan belgilangan spetsifikatsiyalar va standartlarga nomuvofiqlikni aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotdagi xatolik belgilarini izlash jarayoni",
+            "isCorrect": false
+          },
+          {
+            "question": "Rejalashtirilgan va takrorlanadigan jarayon",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotdagi xatolarni tuzatish jarayoni",
+            "isCorrect": true
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566b3",
+        "question": "Qora quti testi va oq quti testi o'rtasidagi chegaralarni buzdi nimaga olib keladi.",
+        "answers": [
+          { "question": "Kulrang quti testi", "isCorrect": true },
+          { "question": "Dinamik test", "isCorrect": false },
+          { "question": "Statik test", "isCorrect": false },
+          { "question": "Muvaffaqiyatsiz Testlash", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566b4",
+        "question": "Dasturiy ta'minotni testdan o'tkazish:",
+        "answers": [
+          {
+            "question": "Dasturiy ta'minotni ishlab chiqishda xatolardan saqlaning",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotni ishlab chiqishdagi xatolarni aniqlash",
+            "isCorrect": false
+          },
+          {
+            "question": "Dasturiy ta'minotdagi xatolarni aniqlash va bartaraf etish, dasturiy ta'minot ishonchliligini oshirish",
+            "isCorrect": true
+          },
+          {
+            "question": "Dasturiy ta'minotdagi xatolarni tuzatish",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566b5",
+        "question": "Test ishining hayot siklining qaysi holatida biron bir sababga ko'ra test ishini bajarish mumkin emas",
+        "answers": [
+          { "question": "Bloklangan", "isCorrect": true },
+          { "question": "yopiq", "isCorrect": false },
+          { "question": "Yaxshilashni talab qilishda", "isCorrect": false },
+          { "question": "Muvaffaqiyatsizda", "isCorrect": false }
+        ],
+        "subject": "testlash"
+      },
+      {
+        
+        "_id": "62853daf7d13d84dd18566b6",
+        "question": "Test ishining \"Muvaffaqiyatsiz\" holati nimani anglatadi?",
+        "answers": [
+          {
+            "question": "test ishini bajarish jarayonida kamchilik  aniqlanadi, bu test ishining kamida bir bosqichi uchun kutilgan natija haqiqiy natijaga mos kelmasligidan iborat",
+            "isCorrect": true
+          },
+          {
+            "question": "test ishini bajarishda uning qadamlarining kutilgan va haqiqiy natijalari o'rtasidagi nomuvofiqlik bilan bog'liq kamchiliklar aniqlanmadi.",
+            "isCorrect": false
+          },
+          {
+            "question": "test ishining bajarilishi vaqt etishmasligi yoki test mantig'ining o'zgarishi sababli bekor qilinadi",
+            "isCorrect": false
+          },
+          {
+            "question": "u ijro etishga tayyor, lekin hali bajarilmagan",
+            "isCorrect": false
+          }
+        ],
+        "subject": "testlash"
+      }
+    ]
+  }
+  

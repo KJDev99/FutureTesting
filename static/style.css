@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.navbar {
+  height: 10vh;
+  width: 100%;
+  position: fixed !important;
+  z-index: 99;
+}
+
+.header_content {
+  border: 1px solid red;
+  height: 85vh;
+  background: url("/media/header3.jpg") center no-repeat;
+  background-attachment: fixed;
+}
+
+.header_content-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 40vh;
+  border: 2px solid blue;
+}
+
+.section__one-title {
+  text-align: center;
+  font-size: 48px;
+  color: #ff8f5e;
+  padding-top: 70px;
+  margin-bottom: 30px;
+}
+
+.section__one .card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ff8f5e;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  overflow: hidden;
+}
+
+.section__one .card:hover {
+  -webkit-box-shadow: 2px 2px 4px #ff8e5e97;
+          box-shadow: 2px 2px 4px #ff8e5e97;
+}
+
+.section__one .card-img-top {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  height: 280px;
+  object-fit: cover;
+}
+
+.section__one .card-img-top:hover {
+  -webkit-transform: scaleX(1.1);
+          transform: scaleX(1.1);
+}
+
+.section__one .card-body-btn {
+  color: #fff;
+  border: 1px solid #000;
+  background: #020024;
+  background: -webkit-gradient(linear, left top, right top, from(#020024), color-stop(49%, #090979), to(#00d4ff));
+  background: linear-gradient(90deg, #020024 0%, #090979 49%, #00d4ff 100%);
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.section__one .card-body-btn:hover {
+  color: #ff8f5e;
+  border: 1px solid black;
+  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.479);
+          box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.479);
+}
+
+.footer {
+  background: #f8f9fa !important;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  margin-top: 20px;
+}
+
+.footer_nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+}
+
+.footer_main {
+  text-align: center;
+  font-size: 16px;
+  margin: auto;
+}
+
+.clock {
+  position: fixed;
+  bottom: 10px;
+  right: -15px;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
+  color: #17D4FE;
+  font-size: 14px;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+}
+
+.clock_block {
+  font-size: 18px;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+
+/*# sourceMappingURL=style.css.map */

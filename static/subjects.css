@@ -1,0 +1,98 @@
+input[type="radio"] {
+  display: none;
+}
+
+input[type="radio"] + label {
+  display: inline-block;
+  width: 95%;
+  padding: auto;
+  text-align: center;
+  padding-top: 4px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+input[type="radio"] + label:hover {
+  border: 1px solid #000000;
+}
+
+input[type="radio"]:checked + label {
+  background-image: none;
+  background-color: #0c0;
+  color: #fff;
+  border: 1px solid #0c0 !important;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.worngans {
+  background-color: #f36;
+  color: #fff !important;
+  border: 1px solid #f36 !important;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.answer {
+  border: 1px solid #ddd;
+  margin: 10px 0 10px 0;
+  display: flex;
+  border-radius: 10px;
+  overflow: hidden;
+  padding-top: 9px;
+  padding-left: 20px;
+}
+.navbar-brand{
+  cursor: pointer;
+}
+.radiobtn {
+  border-radius: 50%;
+  height: 35px !important;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.radiobtn > label {
+  width: 35px !important;
+  height: 35px !important;
+  border-radius: 50% !important;
+  display: flex;
+  justify-content: center;
+}
+.scp-quizzes-data{
+  margin-top: 25px;
+}
+.modal_window{
+  position: fixed !important;
+  background: rgba(0, 0, 0, 0.843);
+  top: -100vh;
+  padding: 80px 30px;
+  width: 100%;
+  z-index: 9999;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.modal__info button{
+  margin-top: 30px;
+}
+@media (min-width: 992px) {
+  .indicator {
+    top: 80px;
+    position: fixed !important;
+    right: 10px;
+    max-width: 440px !important;
+  }
+}
+
+@media (max-width: 992px) {
+  #timercon {
+    display: none;
+  }
+  .indicator {
+    width: 100%;
+  }
+}
+
+
