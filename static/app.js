@@ -29,19 +29,18 @@ window.addEventListener("load", function () {
     let a = document.querySelectorAll('.subject');
 
     let b = [];
-    console.log(a);
     a.forEach((element) => {
       var filter = lotinga(input.value.toLowerCase());
+      console.log(element.textContent)
       let content = element.textContent;
 
-      if (content.indexOf(filter) == -1) {
+      if (content.toLocaleLowerCase().indexOf(filter.toLocaleLowerCase()) == -1) {
         element.style.display = "none";
       } else {
         b.push(element.dataset.i);
         element.style.display = "";
       }
 
-      console.log(a);
 
     });
 

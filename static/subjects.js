@@ -1,5 +1,21 @@
 const questions_table = document.getElementById("nav-home");
+function shuffle(array) {
+  let currentIndex = array.length,  randomIndex;
 
+  // While there remain elements to shuffle.
+  while (currentIndex != 0) {
+
+    // Pick a remaining element.
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    // And swap it with the current element.
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex], array[currentIndex]];
+  }
+
+  return array;
+}
 let home_interval;
 let profile_interval;
 let contact_interval;
@@ -180,7 +196,8 @@ async function profile() {
   });
 
   const json = await data.json();
-  let questions = json.questions.slice(0, 20);
+  let quess = shuffle(json.questions);
+  let questions = quess.slice(0, 20);
   for (let i = 0; i < questions.length; i++) {
     const div = document.createElement("div");
 
@@ -456,7 +473,6 @@ async function contact() {
 }
 
 const input = document.querySelector(".form-control");
-console.log(input);
 input.addEventListener("keyup", async (e) => {
   // const data = await fetch("/questions", {
   //     method: "POST",
@@ -471,6 +487,8 @@ input.addEventListener("keyup", async (e) => {
   let b = [];
   a.forEach((element) => {
     var filter = lotinga(input.value.toLowerCase());
+
+    console.log(input.value);
     let content = element.textContent;
     if (content.indexOf(filter) == -1) {
       element.style.display = "none";
@@ -478,6 +496,5 @@ input.addEventListener("keyup", async (e) => {
       b.push(element.dataset.i);
       element.style.display = "";
     }
-    console.log(a);
   });
 });
