@@ -2,6 +2,10 @@ from django.http import FileResponse, JsonResponse
 from django.shortcuts import render
 from .models import Question, Subject
 # Create your views here.
+
+
+
+
 def home(request):
     print(request.method)
     if request.method == 'GET':
